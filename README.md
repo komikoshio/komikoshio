@@ -1,5 +1,5 @@
-<h1 align="center">Halo, saya Syifa Noor Jannah! 👋</h1>
-<h3 align="center">Mahasiswa Teknik Biomedik | Institut Teknologi Sepuluh Nopember (ITS)</h3>
+<h1 align="center">Halo, saya Syifa Noor Jannah!</h1>
+<h3 align="center">Mahasiswa Teknik Biomedik Angkatan 2026 | Institut Teknologi Sepuluh Nopember (ITS)</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Selamat+datang+di+profil+GitHub+saya!;Mahasiswa+Teknik+Biomedik+ITS;Sedang+belajar+Git+%26+GitHub;Tertarik+pada+teknologi+kesehatan" alt="Typing SVG" />
@@ -29,7 +29,7 @@
 
 ---
 
-### 📊 Statistik GitHub Saya
+### Statistik GitHub
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=komikoshio&show_icons=true&theme=radical" alt="Statistik GitHub" />
 </p>
