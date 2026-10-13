@@ -2,7 +2,7 @@
 <h3 align="center">Mahasiswa Teknik Biomedik Angkatan 2026 | Institut Teknologi Sepuluh Nopember (ITS)</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Selamat+datang+di+profil+GitHub+saya!;Mahasiswa+Teknik+Biomedik+ITS;Sedang+belajar+Git+%26+GitHub;Tertarik+pada+teknologi+kesehatan" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Selamat+datang+di+profil+GitHub+komikoshio!;Mahasiswa+Teknik+Biomedik+ITS;Sedang+belajar+Git+%26+GitHub;Tertarik+pada+teknologi+kesehatan" alt="Typing SVG" />
 </p>
 
 <p align="center">
