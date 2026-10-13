@@ -11,6 +11,7 @@
 **Software & Programming:**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,vscode,git,github" alt="Software Skills" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" />
 </p>
 
 **Hardware & Design:**
