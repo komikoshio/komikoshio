@@ -11,7 +11,7 @@
 </p>
 ---
 
-### 🛠️ Keahlian & Tools
+### Keahlian & Tools
 
 **Software & Programming:**
 <p align="left">
