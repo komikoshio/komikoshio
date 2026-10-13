@@ -1,10 +1,16 @@
-# Halo, saya Syifa Noor Jannah! 👋
+<h1 align="center">Halo, saya Syifa Noor Jannah! 👋</h1>
+<h3 align="center">Mahasiswa Teknik Biomedik | Institut Teknologi Sepuluh Nopember (ITS)</h3>
 
-### 🚀 Tentang Saya
-- 🎓 Mahasiswa Teknik Biomedik, Institut Teknologi Sepuluh Nopember (ITS)
-- 🌱 Saat ini sedang belajar Git, GitHub, dan dasar-dasar pemrograman
-- 💡 Tertarik pada teknologi kesehatan dan pengembangan perangkat lunak
-- 📫 Cara menghubungi saya: [email kamu] atau [link LinkedIn/IG kamu]
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Selamat+datang+di+profil+GitHub+saya!;Mahasiswa+Teknik+Biomedik+ITS;Sedang+belajar+Git+%26+GitHub;Tertarik+pada+teknologi+kesehatan" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Institut_Teknologi_Sepuluh_Nopember-005DAA?style=for-the-badge&logo=academia&logoColor=white" alt="ITS" />
+  <img src="https://img.shields.io/badge/Teknik_Biomedik-008080?style=for-the-badge&logo=health&logoColor=white" alt="Teknik Biomedik" />
+</p>
+
+---
 
 ### 🛠️ Keahlian & Tools
 
@@ -21,7 +27,9 @@
   <img src="https://img.shields.io/badge/Tinkercad-FF6D00?style=for-the-badge&logo=tinkercad&logoColor=white" alt="Tinkercad" />
 </p>
 
-### Statistik GitHub
+---
+
+### 📊 Statistik GitHub Saya
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=komikoshio&show_icons=true&theme=radical" alt="Statistik GitHub" />
 </p>
