@@ -33,12 +33,7 @@
 
 ---
 
-###  Statistik GitHub 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=komikoshio&show_icons=true&theme=radical" alt="Statistik GitHub" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=komikoshio&layout=compact&theme=radical" alt="Top Languages" height="180em" />
-</p>
+###  Statistik GitHub
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=komikoshio&theme=radical" alt="GitHub Streak" />
