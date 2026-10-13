@@ -9,11 +9,6 @@
   <img src="https://img.shields.io/badge/Institut_Teknologi_Sepuluh_Nopember-005DAA?style=for-the-badge&logo=academia&logoColor=white" alt="ITS" />
   <img src="https://img.shields.io/badge/Teknik_Biomedik-008080?style=for-the-badge&logo=health&logoColor=white" alt="Teknik Biomedik" />
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=komikoshio&label=Profile%20Views&color=36BCF7&style=for-the-badge" alt="Profile Views" />
-</p>
-
 ---
 
 ### 🛠️ Keahlian & Tools
