@@ -7,7 +7,7 @@
 - Fun Fact dari diri saya suka makan mie pakai oreo.
   
 ### 🛠️ Keahlian & Tools
-- Bahasa: C++ (dasar), electronics & microcontrollers.
+-  Programming (C++), electronics & microcontrollers.
 - Tools: VS Code, Git, GitHub, Arduino IDE, KiCad, Tinkercad Circuits.
 
 ### 📊 Statistik GitHub Saya
