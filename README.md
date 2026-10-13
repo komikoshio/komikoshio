@@ -10,6 +10,10 @@
   <img src="https://img.shields.io/badge/Teknik_Biomedik-008080?style=for-the-badge&logo=health&logoColor=white" alt="Teknik Biomedik" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=komikoshio&label=Profile%20Views&color=36BCF7&style=for-the-badge" alt="Profile Views" />
+</p>
+
 ---
 
 ### 🛠️ Keahlian & Tools
@@ -29,7 +33,28 @@
 
 ---
 
-### Statistik GitHub
+###  Statistik GitHub 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=komikoshio&show_icons=true&theme=radical" alt="Statistik GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=komikoshio&show_icons=true&theme=radical" alt="Statistik GitHub" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=komikoshio&layout=compact&theme=radical" alt="Top Languages" height="180em" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=komikoshio&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+###  Proyek Unggulan
+
+<p align="center">
+  <a href="https://github.com/komikoshio/palmguard-dashboard">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=komikoshio&repo=palmguard-dashboard&theme=radical" alt="PalmGuard Dashboard" />
+  </a>
+  <a href="https://github.com/komikoshio/barunastra">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=komikoshio&repo=barunastra&theme=radical" alt="Barunastra" />
+  </a>
+</p>
+
+---
